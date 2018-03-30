@@ -1,0 +1,2 @@
+# tugas-no-telepon
+python
